@@ -1,4 +1,4 @@
-# QFL_ALGORITHMS
+# QFL_ALGORITHMS 
 The Exact Quantum Pattern Matching Algorithms for Processing Biological Sequences </br></br>
 
 QFL_SPM ALGORITHM.c : This code implements Quantum First - Last Filtering based Single Pattern Matching (QFL_SPM) Algorithm</br>
